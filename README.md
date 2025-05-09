@@ -1,4 +1,5 @@
 # TK-TuruBro-Iya
+[![Progress Report](https://img.shields.io/badge/docs-online-blue.svg)](https://docs.google.com/document/d/1zOxXFmVPSKEBPYRqxvUWic8o197i1NCzl-bQ-GLKAJ4/edit?usp=sharing)
 
 ## 📘 Deskripsi Sistem
 
