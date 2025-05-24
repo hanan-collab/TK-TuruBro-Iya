@@ -8,7 +8,7 @@ from openai import OpenAI
 import json
 
 app = FastAPI()
-client = OpenAI(api_key="sk-70fe104e48cc46578813c44f4227ff3d", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="api-key", base_url="https://api.deepseek.com")
 
 origins = ["*"]  # Ganti dengan domain frontend jika perlu
 app.add_middleware(
